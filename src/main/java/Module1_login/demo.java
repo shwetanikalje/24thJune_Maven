@@ -6,6 +6,10 @@ public class demo
 		
 		System.out.println("Hi GM");
 		
+		System.out.println("Hi GM");
+		System.out.println("Hi GM");
+		System.out.println("Hi GM");
+		
 		
 	}
 
