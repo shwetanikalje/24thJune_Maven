@@ -1,9 +1,9 @@
 package Module1_login;
 
-public class Demo1
+public class Sample2
 {
    public static void main(String[] args)
    {
-	  System.out.println("Code updation");
-   }
+	System.out.println("HI, Vipul Ghatol");
+}
 }
